@@ -6,7 +6,7 @@ Clone the Repository and run
 
 
 ```
-git clone https://github.com/instatechhd/rawflyanime.git
+git clone https://github.com/instatechhd/rawflyanime-api.git
 cd rawflyanime-api
 npm install 
 ```
