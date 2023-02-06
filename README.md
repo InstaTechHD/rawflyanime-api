@@ -1,4 +1,4 @@
-# AniKatsu API
+# RawFly Anime API
 
 ### Installing
 
@@ -6,7 +6,7 @@ Clone the Repository and run
 
 
 ```
-git clone https://github.com/shashankktiwariii/anikatsu-api.git
+git clone https://github.com/instatechhd/rawflyanime.git
 cd anikatsu-api
 npm install 
 ```
