@@ -4,9 +4,9 @@
 
 Clone the Repository and run
 
+git clone https://github.com/instatechhd/rawflyanime-api.git
 
 ```
-https://faucetjoy.com/api
 cd rawflyanime-api
 npm install 
 ```
