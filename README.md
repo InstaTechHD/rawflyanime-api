@@ -7,7 +7,7 @@ Clone the Repository and run
 
 ```
 git clone https://github.com/instatechhd/rawflyanime-api.git
-cd anikatsu-api
+cd rawflyanime-api
 npm install 
 ```
 start the server with the following command:
